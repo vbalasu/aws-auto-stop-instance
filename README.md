@@ -21,4 +21,6 @@ The initial set up is as follows:
 
 The countdown has begun! Your instance will now auto-stop after 60 minutes.
 
+Note that you can always manually edit `timer.json` on the remote machine if you need to extend or shorten the time.
+
 Peace of mind at last!
